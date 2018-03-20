@@ -1,3 +1,3 @@
 # StudyKotlinRealm
 
-これはKotlin製AndroidアプリからRealmを使うためのサンプルです
+これはKotlin製AndroidアプリからRealmを使うためのサンプルです.
